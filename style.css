@@ -1,0 +1,10 @@
+/* #animate {
+
+} */
+
+#animate div {
+    width: 400px;
+    height: 200px;
+    background: #000;
+    margin-bottom: 30px;
+}
